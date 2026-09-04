@@ -1,0 +1,69 @@
+about:
+  description: The user-friendly command line shell.
+  license: NOASSERTION
+  homepage: https://fishshell.com
+  head: 0c519d2
+  archived: false
+  latestVersion: 4.9.0
+  collectedAt: 2026-09-04T04:21:10Z
+timeline:
+  created: 2012-05-10
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 34124
+  watcher: 283
+  fork: 2364
+  release: 68
+  contributor: 1074
+  pullRequest: 2072
+  issue: 8196
+language:
+  Rust: 3594272
+  Shell: 1123587
+  Python: 281765
+  HTML: 25056
+  JavaScript: 24994
+  CMake: 20807
+  CSS: 14775
+  C: 9006
+  Makefile: 4481
+  Objective-C: 3586
+  Dockerfile: 3481
+  Fluent: 3330
+  Nix: 905
+  RenderScript: 1
+totalLine: 5110046
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 8
+    openPR: 3
+    closedIssue: 17
+    openIssue: 17
+    commit: 81
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 13
+    openPR: 12
+    closedIssue: 53
+    openIssue: 26
+    commit: 258
+  last180d:
+    since: 2026-03-08
+    release: 6
+    mergedPR: 27
+    openPR: 21
+    closedIssue: 135
+    openIssue: 45
+    commit: 621
+  last360d:
+    since: 2025-09-09
+    release: 20
+    mergedPR: 65
+    openPR: 38
+    closedIssue: 424
+    openIssue: 89
+    commit: 1726
