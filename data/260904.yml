@@ -7,7 +7,7 @@ about:
   head: 9bafe18
   archived: false
   latestVersion: 4.9.1
-  collectedAt: 2026-09-04T19:28:19Z
+  collectedAt: 2026-09-04T21:04:08Z
 timeline:
   created: 2012-05-10
   lastCommit: 2026-09-04
@@ -93,6 +93,119 @@ total:
   openIssue: 511
   commit: 23263
 ---
+path: /home/runner/.x-repo/github.com/fish-shell/fish-shell
+collectedAt: 2026-09-04T21:04:24Z
+loc:
+  Rust:
+    code: 82332
+    comments: 7503
+    blanks: 8924
+    files: 218
+  Fish:
+    code: 68792
+    comments: 15528
+    blanks: 9560
+    files: 1593
+  ReStructuredText:
+    code: 14712
+    comments: 0
+    blanks: 6417
+    files: 143
+  Python:
+    code: 7541
+    comments: 1124
+    blanks: 1347
+    files: 52
+  Css:
+    code: 1307
+    comments: 83
+    blanks: 251
+    files: 4
+  Sh:
+    code: 1132
+    comments: 187
+    blanks: 252
+    files: 24
+  Toml:
+    code: 567
+    comments: 29
+    blanks: 74
+    files: 26
+  JavaScript:
+    code: 556
+    comments: 41
+    blanks: 71
+    files: 3
+  CMake:
+    code: 463
+    comments: 57
+    blanks: 104
+    files: 9
+  Xml:
+    code: 411
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 334
+    comments: 6
+    blanks: 20
+    files: 5
+  C:
+    code: 230
+    comments: 27
+    blanks: 27
+    files: 1
+  Dockerfile:
+    code: 126
+    comments: 2
+    blanks: 32
+    files: 4
+  Autoconf:
+    code: 121
+    comments: 28
+    blanks: 24
+    files: 4
+  Yaml:
+    code: 119
+    comments: 1
+    blanks: 6
+    files: 3
+  ObjectiveC:
+    code: 66
+    comments: 15
+    blanks: 19
+    files: 1
+  FreeMarker:
+    code: 39
+    comments: 0
+    blanks: 0
+    files: 10
+  Bitbake:
+    code: 26
+    comments: 6
+    blanks: 2
+    files: 1
+  Nix:
+    code: 19
+    comments: 14
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 327
+    blanks: 186
+    files: 7
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 179069
+  comments: 29796
+  blanks: 27543
+  files: 2112
 ---
 date: "2026-08-24"
 repo:
