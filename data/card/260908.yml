@@ -5,7 +5,7 @@ about:
   head: 78a70be
   archived: false
   latestVersion: "4.9.2"
-  collectedAt: 2026-09-08T02:09:03Z
+  collectedAt: 2026-09-08T04:47:51Z
 timeline:
   created: 2012-05-10
   lastCommit: 2026-09-07
@@ -92,7 +92,7 @@ total:
   commit: 23290
 ---
 path: /home/runner/.x-repo/github.com/fish-shell/fish-shell
-collectedAt: 2026-09-08T02:09:52Z
+collectedAt: 2026-09-08T04:48:20Z
 loc:
   Rust:
     code: 82326
