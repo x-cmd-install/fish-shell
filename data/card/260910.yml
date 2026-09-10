@@ -7,7 +7,7 @@ about:
   latestVersion: "4.9.3"
   latestRelease: "4.9.3"
   latestPrerelease: "4.0b1"
-  collectedAt: 2026-09-10T04:42:27Z
+  collectedAt: 2026-09-10T16:29:42Z
 timeline:
   created: 2012-05-10
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2024-12-17
 popularity:
-  star: 34163
+  star: 34165
   watcher: 283
   fork: 2365
   release: 71
-  contributor: 1074
+  contributor: 1073
   pullRequest: 4303
-  issue: 8205
+  issue: 8206
 language:
   Rust: 3598788
   Shell: 1128528
@@ -45,7 +45,7 @@ recent:
     mergedPR: 11
     openPR: 6
     closedIssue: 19
-    openIssue: 9
+    openIssue: 10
     commit: 134
   last60d:
     since: 2026-07-12
@@ -53,7 +53,7 @@ recent:
     mergedPR: 14
     openPR: 11
     closedIssue: 39
-    openIssue: 22
+    openIssue: 23
     commit: 198
   last90d:
     since: 2026-06-12
@@ -61,7 +61,7 @@ recent:
     mergedPR: 17
     openPR: 14
     closedIssue: 59
-    openIssue: 26
+    openIssue: 27
     commit: 288
   last180d:
     since: 2026-03-14
@@ -69,7 +69,7 @@ recent:
     mergedPR: 31
     openPR: 25
     closedIssue: 138
-    openIssue: 44
+    openIssue: 45
     commit: 649
   last360d:
     since: 2025-09-15
@@ -77,7 +77,7 @@ recent:
     mergedPR: 68
     openPR: 41
     closedIssue: 419
-    openIssue: 91
+    openIssue: 92
     commit: 1756
   last720d:
     since: 2024-09-20
@@ -85,18 +85,18 @@ recent:
     mergedPR: 309
     openPR: 54
     closedIssue: 901
-    openIssue: 150
+    openIssue: 151
     commit: 4014
 total:
   release: 71
   mergedPR: 2225
   openPR: 55
   closedIssue: 7693
-  openIssue: 512
+  openIssue: 513
   commit: 23313
 ---
 path: /home/runner/.x-repo/github.com/fish-shell/fish-shell
-collectedAt: 2026-09-10T04:43:02Z
+collectedAt: 2026-09-10T16:30:12Z
 loc:
   Rust:
     code: 82376
