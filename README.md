@@ -12,46 +12,7 @@ The user-friendly command line shell.
 x install fish-shell
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/fish-shell/fish-shell>
-- **Homepage**: <https://fishshell.com>
-- **License**: NOASSERTION
-
-## Release
-
-- **Latest**: `4.9.3` (2026-09-08)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 6
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [fish-4.9.3-linux-aarch64.tar.xz](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3-linux-aarch64.tar.xz) | 2.8 MiB | `native/linux/arm64` |
-| [fish-4.9.3-linux-x86_64.tar.xz](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3-linux-x86_64.tar.xz) | 3.1 MiB | `native/linux/x64` |
-| [fish-4.9.3.app.zip](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.app.zip) | 16.3 MiB | `other` |
-| [fish-4.9.3.pkg](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.pkg) | 22.8 MiB | `other` |
-| [fish-4.9.3.tar.xz](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.tar.xz) | 2.5 MiB | `other` |
-| [fish-4.9.3.tar.xz.asc](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.tar.xz.asc) | 687 B | `other` |
-
-## Popularity
-
-- **Stars**: 34,165 · **Forks**: 2,365 · **Open issues**: 8,206 · **Contributors**: 1,073
-
-## Totals (cumulative)
-
-- **Releases**: 71 · **Merged PRs**: 2225 · **Open PRs**: 55 · **Closed issues**: 7693 · **Open issues**: 513 · **Commits**: 23313
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 11 | 6 | 19 | 10 | 134 |
-| 90d | 2026-06-12 | 6 | 17 | 14 | 59 | 27 | 288 |
-| 360d | 2025-09-15 | 22 | 68 | 41 | 419 | 92 | 1756 |
-
-## Code size
+## Code insight
 
 Total: **179,030** lines of code across **2013** files in the top 5 languages.
 
@@ -73,6 +34,48 @@ Lowest-scoring checks:
 - **Dangerous-Workflow** (-1/10) — no workflows found
 - **Packaging** (-1/10) — packaging workflow not detected
 
+## Source
+
+- **Upstream**: <https://github.com/fish-shell/fish-shell>
+- **Homepage**: <https://fishshell.com>
+- **License**: NOASSERTION
+
+## Release
+
+- **Latest**: `4.9.3` (2026-09-08)
+- **Last commit**: 2026-09-09
+- **Assets in release**: 6
+
+## Popularity
+
+- **Stars**: 34,168 · **Forks**: 2,365 · **Open issues**: 8,208 · **Contributors**: 1,073
+
+## Totals (cumulative)
+
+- **Releases**: 71 · **Merged PRs**: 2225 · **Open PRs**: 55 · **Closed issues**: 7693 · **Open issues**: 515 · **Commits**: 23313
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 4 | 11 | 6 | 17 | 12 | 134 |
+| last60d | 2026-07-13 | 5 | 14 | 11 | 39 | 25 | 198 |
+| 90d | 2026-06-13 | 6 | 17 | 14 | 59 | 29 | 288 |
+| last180d | 2026-03-15 | 9 | 31 | 25 | 137 | 47 | 649 |
+| 360d | 2025-09-16 | 22 | 68 | 41 | 418 | 94 | 1756 |
+| last720d | 2024-09-21 | 27 | 309 | 54 | 900 | 153 | 4014 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fish-4.9.3-linux-aarch64.tar.xz](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3-linux-aarch64.tar.xz) | 2.8 MiB | `native/linux/arm64` |
+| [fish-4.9.3-linux-x86_64.tar.xz](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3-linux-x86_64.tar.xz) | 3.1 MiB | `native/linux/x64` |
+| [fish-4.9.3.app.zip](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.app.zip) | 16.3 MiB | `other` |
+| [fish-4.9.3.pkg](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.pkg) | 22.8 MiB | `other` |
+| [fish-4.9.3.tar.xz](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.tar.xz) | 2.5 MiB | `other` |
+| [fish-4.9.3.tar.xz.asc](https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.tar.xz.asc) | 687 B | `other` |
+
 ## Improve this data
 
 Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fish-shell` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -82,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:30:18Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:19:32Z._
