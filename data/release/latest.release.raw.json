@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2916008,
       "digest": "sha256:57349f0111728c64b703a84e611aa97ff4d1fa8466385d64e67bd5bc3ffa49fc",
-      "download_count": 106,
+      "download_count": 110,
       "created_at": "2026-09-08T18:58:01Z",
       "updated_at": "2026-09-08T18:58:02Z",
       "browser_download_url": "https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3-linux-aarch64.tar.xz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3217572,
       "digest": "sha256:8f643d10ad1abb0ef7072764c01ceb5cf61b2d373fda400cf60f0bad69b7e095",
-      "download_count": 491,
+      "download_count": 506,
       "created_at": "2026-09-08T18:58:01Z",
       "updated_at": "2026-09-08T18:58:02Z",
       "browser_download_url": "https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3-linux-x86_64.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 17049060,
       "digest": "sha256:3619fa92d540ed0dff4816594429290550d21b92226e0523457e5f0242c5e9a8",
-      "download_count": 83,
+      "download_count": 87,
       "created_at": "2026-09-08T19:22:23Z",
       "updated_at": "2026-09-08T19:22:24Z",
       "browser_download_url": "https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.app.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 23868345,
       "digest": "sha256:fb489929e25e66b8c026a1da8935f68f828134e115a1706f360ed73149b843a9",
-      "download_count": 219,
+      "download_count": 229,
       "created_at": "2026-09-08T19:22:23Z",
       "updated_at": "2026-09-08T19:22:24Z",
       "browser_download_url": "https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.pkg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2628460,
       "digest": "sha256:20998a25f73217ddcc19f499055fd587e9912d1ad6e7109120fbcf2871f0b98c",
-      "download_count": 985,
+      "download_count": 1023,
       "created_at": "2026-09-08T18:58:01Z",
       "updated_at": "2026-09-08T18:58:02Z",
       "browser_download_url": "https://github.com/fish-shell/fish-shell/releases/download/4.9.3/fish-4.9.3.tar.xz"
