@@ -14,13 +14,13 @@ x install fish-shell
 
 ## Code insight
 
-Total: **179,445** lines of code across **2020** files in the top 5 languages.
+Total: **179,448** lines of code across **2020** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Rust | 82,541 | 7,504 | 8,953 | 218 |
-| Fish | 69,124 | 15,616 | 9,618 | 1603 |
-| ReStructuredText | 14,733 | 0 | 6,425 | 143 |
+| Fish | 69,126 | 15,616 | 9,618 | 1603 |
+| ReStructuredText | 14,734 | 0 | 6,425 | 143 |
 | Python | 7,541 | 1,121 | 1,347 | 52 |
 | Css | 1,307 | 83 | 251 | 4 |
 
@@ -30,9 +30,9 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.9.3` (2026-09-08)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-15
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 34,201 · **Forks**: 2,368 · **Open issues**: 8,214 · **Contributors**: 1,073
+- **Stars**: 34,203 · **Forks**: 2,370 · **Open issues**: 8,216 · **Contributors**: 1,073
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2227 · **Open PRs**: 54 · **Closed issues**: 7705 · **Open issues**: 509 · **Commits**: 23333
+- **Releases**: 71 · **Merged PRs**: 2227 · **Open PRs**: 54 · **Closed issues**: 7706 · **Open issues**: 510 · **Commits**: 23335
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 4 | 13 | 4 | 24 | 8 | 146 |
-| last60d | 2026-07-17 | 4 | 16 | 8 | 45 | 20 | 208 |
-| 90d | 2026-06-17 | 6 | 19 | 13 | 69 | 25 | 285 |
-| last180d | 2026-03-19 | 9 | 33 | 24 | 142 | 43 | 663 |
-| 360d | 2025-09-20 | 21 | 70 | 40 | 425 | 88 | 1709 |
-| last720d | 2024-09-25 | 27 | 311 | 53 | 905 | 149 | 4021 |
+| 30d | 2026-08-17 | 4 | 13 | 4 | 24 | 9 | 148 |
+| last60d | 2026-07-18 | 4 | 16 | 8 | 46 | 21 | 210 |
+| 90d | 2026-06-18 | 6 | 19 | 13 | 70 | 26 | 287 |
+| last180d | 2026-03-20 | 9 | 33 | 24 | 143 | 44 | 665 |
+| 360d | 2025-09-21 | 21 | 70 | 40 | 425 | 88 | 1711 |
+| last720d | 2024-09-26 | 27 | 311 | 53 | 906 | 150 | 4023 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:06:32Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:04:35Z._
