@@ -26,13 +26,13 @@ Total: **181,264** lines of code across **2044** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,245 · **Forks**: 2,378 · **Open issues**: 8,218 · **Contributors**: 1,080
+- **Stars**: 34,243 · **Forks**: 2,378 · **Open issues**: 8,218 · **Contributors**: 1,079
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 4 | 15 | 3 | 21 | 7 | 107 |
-| last60d | 2026-07-30 | 4 | 23 | 6 | 41 | 16 | 196 |
-| 90d | 2026-06-30 | 5 | 24 | 10 | 66 | 19 | 267 |
-| last180d | 2026-04-01 | 8 | 40 | 22 | 135 | 39 | 648 |
-| 360d | 2025-10-03 | 18 | 76 | 35 | 407 | 81 | 1617 |
-| last720d | 2024-10-08 | 27 | 313 | 51 | 906 | 143 | 4031 |
+| 30d | 2026-08-30 | 4 | 15 | 4 | 21 | 7 | 107 |
+| last60d | 2026-07-31 | 4 | 23 | 7 | 41 | 16 | 196 |
+| 90d | 2026-07-01 | 5 | 24 | 11 | 66 | 19 | 267 |
+| last180d | 2026-04-02 | 8 | 40 | 23 | 131 | 39 | 648 |
+| 360d | 2025-10-04 | 18 | 76 | 35 | 404 | 81 | 1617 |
+| last720d | 2024-10-09 | 27 | 313 | 51 | 903 | 141 | 4030 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:32:19Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:39:50Z._
