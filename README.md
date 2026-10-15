@@ -18,8 +18,8 @@ Total: **181,280** lines of code across **2046** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 82,592 | 7,514 | 8,952 | 218 |
-| Fish | 70,864 | 15,724 | 9,824 | 1627 |
+| Rust | 82,590 | 7,513 | 8,952 | 218 |
+| Fish | 70,866 | 15,726 | 9,824 | 1627 |
 | ReStructuredText | 14,769 | 0 | 6,450 | 145 |
 | Python | 7,548 | 1,121 | 1,348 | 52 |
 | Css | 1,307 | 83 | 251 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.9.3` (2026-09-08)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 34,297 · **Forks**: 2,385 · **Open issues**: 8,226 · **Contributors**: 1,083
+- **Stars**: 34,296 · **Forks**: 2,386 · **Open issues**: 8,227 · **Contributors**: 1,084
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2238 · **Open PRs**: 59 · **Closed issues**: 7719 · **Open issues**: 507 · **Commits**: 23392
+- **Releases**: 71 · **Merged PRs**: 2238 · **Open PRs**: 60 · **Closed issues**: 7719 · **Open issues**: 508 · **Commits**: 23394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 11 | 9 | 7 | 6 | 48 |
-| last60d | 2026-08-15 | 4 | 24 | 12 | 34 | 13 | 199 |
-| 90d | 2026-07-16 | 4 | 27 | 16 | 58 | 22 | 260 |
-| last180d | 2026-04-17 | 8 | 42 | 29 | 123 | 41 | 619 |
-| 360d | 2025-10-19 | 17 | 78 | 40 | 367 | 79 | 1501 |
-| last720d | 2024-10-24 | 27 | 306 | 58 | 893 | 143 | 3991 |
+| 30d | 2026-09-15 | 0 | 10 | 10 | 6 | 6 | 50 |
+| last60d | 2026-08-16 | 4 | 24 | 13 | 32 | 14 | 201 |
+| 90d | 2026-07-17 | 4 | 27 | 17 | 57 | 22 | 262 |
+| last180d | 2026-04-18 | 8 | 38 | 30 | 122 | 42 | 621 |
+| 360d | 2025-10-20 | 17 | 78 | 41 | 365 | 79 | 1503 |
+| last720d | 2024-10-25 | 27 | 306 | 59 | 893 | 144 | 3990 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:50:56Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:32:05Z._
