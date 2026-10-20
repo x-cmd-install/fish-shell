@@ -31,8 +31,8 @@ x install fish-shell
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 5/28 approved changesets -- score normalized to 1
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (1/10) — Found 3/28 approved changesets -- score normalized to 1
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install fish-shell
 
 ## 流行度
 
-- **Star**: 34,317 · **Fork**: 2,389 · **开放 issue**: 8,228 · **贡献者**: 1,083
+- **Star**: 34,332 · **Fork**: 2,399 · **开放 issue**: 8,228 · **贡献者**: 1,083
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install fish-shell
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 10 | 6 | 11 | 2 | 39 |
-| last60d | 2026-08-20 | 4 | 25 | 8 | 36 | 10 | 197 |
-| 90d | 2026-07-21 | 4 | 28 | 11 | 60 | 18 | 266 |
-| last180d | 2026-04-22 | 8 | 39 | 26 | 124 | 38 | 610 |
-| 360d | 2025-10-24 | 17 | 78 | 37 | 365 | 74 | 1431 |
-| last720d | 2024-10-29 | 27 | 305 | 55 | 892 | 139 | 3974 |
+| 30d | 2026-09-20 | 0 | 9 | 6 | 11 | 2 | 39 |
+| last60d | 2026-08-21 | 4 | 24 | 8 | 34 | 10 | 197 |
+| 90d | 2026-07-22 | 4 | 28 | 11 | 60 | 18 | 266 |
+| last180d | 2026-04-23 | 8 | 39 | 25 | 121 | 38 | 610 |
+| 360d | 2025-10-25 | 17 | 78 | 37 | 364 | 74 | 1431 |
+| last720d | 2024-10-30 | 27 | 305 | 55 | 891 | 139 | 3974 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ fish-shell 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T04:33:39Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T04:46:29Z._
