@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.9.3` (2026-09-08)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-21
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 34,334 · **Forks**: 2,404 · **Open issues**: 8,229 · **Contributors**: 1,082
+- **Stars**: 34,336 · **Forks**: 2,407 · **Open issues**: 8,230 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2239 · **Open PRs**: 59 · **Closed issues**: 7726 · **Open issues**: 503 · **Commits**: 23404
+- **Releases**: 71 · **Merged PRs**: 2240 · **Open PRs**: 61 · **Closed issues**: 7727 · **Open issues**: 503 · **Commits**: 23405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 8 | 9 | 12 | 1 | 39 |
-| last60d | 2026-08-22 | 4 | 24 | 11 | 35 | 10 | 197 |
-| 90d | 2026-07-23 | 4 | 28 | 14 | 60 | 18 | 266 |
-| last180d | 2026-04-24 | 8 | 39 | 28 | 122 | 38 | 610 |
-| 360d | 2025-10-26 | 17 | 78 | 40 | 362 | 74 | 1431 |
-| last720d | 2024-10-31 | 27 | 305 | 58 | 890 | 139 | 3972 |
+| 30d | 2026-09-22 | 0 | 8 | 11 | 12 | 1 | 39 |
+| last60d | 2026-08-23 | 4 | 24 | 13 | 36 | 10 | 197 |
+| 90d | 2026-07-24 | 4 | 29 | 16 | 61 | 18 | 266 |
+| last180d | 2026-04-25 | 8 | 39 | 30 | 123 | 37 | 610 |
+| 360d | 2025-10-27 | 17 | 79 | 42 | 363 | 74 | 1432 |
+| last720d | 2024-11-01 | 27 | 305 | 60 | 890 | 139 | 3971 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:39:59Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:43:58Z._
