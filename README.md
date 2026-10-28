@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.9.3` (2026-09-08)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-27
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 34,353 · **Forks**: 2,424 · **Open issues**: 8,231 · **Contributors**: 1,082
+- **Stars**: 34,355 · **Forks**: 2,440 · **Open issues**: 8,231 · **Contributors**: 1,082
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2243 · **Open PRs**: 56 · **Closed issues**: 7727 · **Open issues**: 504 · **Commits**: 23419
+- **Releases**: 71 · **Merged PRs**: 2243 · **Open PRs**: 60 · **Closed issues**: 7727 · **Open issues**: 504 · **Commits**: 23420
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 9 | 7 | 12 | 2 | 29 |
-| last60d | 2026-08-28 | 4 | 25 | 9 | 34 | 9 | 152 |
-| 90d | 2026-07-29 | 4 | 32 | 12 | 54 | 18 | 237 |
-| last180d | 2026-04-30 | 8 | 41 | 26 | 115 | 37 | 562 |
-| 360d | 2025-11-01 | 17 | 81 | 36 | 357 | 73 | 1400 |
-| last720d | 2024-11-06 | 27 | 307 | 55 | 884 | 140 | 3972 |
+| 30d | 2026-09-28 | 0 | 8 | 10 | 12 | 2 | 30 |
+| last60d | 2026-08-29 | 4 | 24 | 13 | 33 | 9 | 153 |
+| 90d | 2026-07-30 | 4 | 32 | 16 | 53 | 18 | 238 |
+| last180d | 2026-05-01 | 8 | 41 | 30 | 114 | 37 | 563 |
+| 360d | 2025-11-02 | 17 | 81 | 40 | 357 | 73 | 1401 |
+| last720d | 2024-11-07 | 27 | 307 | 59 | 883 | 139 | 3962 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:03:55Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:40:54Z._
