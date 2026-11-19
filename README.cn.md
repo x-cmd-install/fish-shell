@@ -26,12 +26,12 @@ x install fish-shell
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.5 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
-- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
@@ -48,22 +48,22 @@ x install fish-shell
 
 ## 流行度
 
-- **Star**: 34,464 · **Fork**: 2,494 · **开放 issue**: 8,242 · **贡献者**: 1,087
+- **Star**: 34,473 · **Fork**: 2,490 · **开放 issue**: 8,244 · **贡献者**: 1,087
 
 ## 累计统计
 
-- **发布数**: 71 · **已合并 PR**: 2249 · **开放 PR**: 69 · **已关闭 issue**: 7733 · **开放 issue**: 509 · **提交数**: 23436
+- **发布数**: 71 · **已合并 PR**: 2249 · **开放 PR**: 71 · **已关闭 issue**: 7733 · **开放 issue**: 511 · **提交数**: 23436
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 9 | 16 | 7 | 7 | 16 |
-| last60d | 2026-09-18 | 0 | 20 | 20 | 18 | 9 | 73 |
-| 90d | 2026-08-19 | 4 | 35 | 22 | 43 | 17 | 219 |
-| last180d | 2026-05-21 | 6 | 43 | 32 | 103 | 36 | 494 |
-| 360d | 2025-11-22 | 15 | 83 | 48 | 326 | 75 | 1274 |
-| last720d | 2024-11-27 | 27 | 307 | 67 | 869 | 142 | 3918 |
+| 30d | 2026-10-20 | 0 | 8 | 18 | 6 | 9 | 16 |
+| last60d | 2026-09-20 | 0 | 19 | 22 | 18 | 11 | 73 |
+| 90d | 2026-08-21 | 4 | 34 | 24 | 41 | 19 | 219 |
+| last180d | 2026-05-23 | 6 | 43 | 34 | 102 | 37 | 494 |
+| 360d | 2025-11-24 | 15 | 81 | 49 | 323 | 77 | 1274 |
+| last720d | 2024-11-29 | 27 | 307 | 69 | 869 | 144 | 3913 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ fish-shell 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:25:26Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T07:43:57Z._

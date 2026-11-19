@@ -26,12 +26,12 @@ Total: **181,384** lines of code across **2048** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
-- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,464 · **Forks**: 2,494 · **Open issues**: 8,242 · **Contributors**: 1,087
+- **Stars**: 34,473 · **Forks**: 2,490 · **Open issues**: 8,244 · **Contributors**: 1,087
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2249 · **Open PRs**: 69 · **Closed issues**: 7733 · **Open issues**: 509 · **Commits**: 23436
+- **Releases**: 71 · **Merged PRs**: 2249 · **Open PRs**: 71 · **Closed issues**: 7733 · **Open issues**: 511 · **Commits**: 23436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 9 | 16 | 7 | 7 | 16 |
-| last60d | 2026-09-18 | 0 | 20 | 20 | 18 | 9 | 73 |
-| 90d | 2026-08-19 | 4 | 35 | 22 | 43 | 17 | 219 |
-| last180d | 2026-05-21 | 6 | 43 | 32 | 103 | 36 | 494 |
-| 360d | 2025-11-22 | 15 | 83 | 48 | 326 | 75 | 1274 |
-| last720d | 2024-11-27 | 27 | 307 | 67 | 869 | 142 | 3918 |
+| 30d | 2026-10-20 | 0 | 8 | 18 | 6 | 9 | 16 |
+| last60d | 2026-09-20 | 0 | 19 | 22 | 18 | 11 | 73 |
+| 90d | 2026-08-21 | 4 | 34 | 24 | 41 | 19 | 219 |
+| last180d | 2026-05-23 | 6 | 43 | 34 | 102 | 37 | 494 |
+| 360d | 2025-11-24 | 15 | 81 | 49 | 323 | 77 | 1274 |
+| last720d | 2024-11-29 | 27 | 307 | 69 | 869 | 144 | 3913 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:25:25Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:43:56Z._
