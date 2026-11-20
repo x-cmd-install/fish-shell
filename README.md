@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,473 · **Forks**: 2,490 · **Open issues**: 8,244 · **Contributors**: 1,087
+- **Stars**: 34,480 · **Forks**: 2,491 · **Open issues**: 8,245 · **Contributors**: 1,087
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 2249 · **Open PRs**: 71 · **Closed issues**: 7733 · **Open issues**: 511 · **Commits**: 23436
+- **Releases**: 71 · **Merged PRs**: 2249 · **Open PRs**: 73 · **Closed issues**: 7733 · **Open issues**: 512 · **Commits**: 23436
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 8 | 18 | 6 | 9 | 16 |
-| last60d | 2026-09-20 | 0 | 19 | 22 | 18 | 11 | 73 |
-| 90d | 2026-08-21 | 4 | 34 | 24 | 41 | 19 | 219 |
-| last180d | 2026-05-23 | 6 | 43 | 34 | 102 | 37 | 494 |
-| 360d | 2025-11-24 | 15 | 81 | 49 | 323 | 77 | 1274 |
-| last720d | 2024-11-29 | 27 | 307 | 69 | 869 | 144 | 3913 |
+| 30d | 2026-10-21 | 0 | 5 | 19 | 5 | 10 | 16 |
+| last60d | 2026-09-21 | 0 | 18 | 24 | 18 | 11 | 73 |
+| 90d | 2026-08-22 | 4 | 34 | 26 | 41 | 20 | 219 |
+| last180d | 2026-05-24 | 6 | 43 | 36 | 102 | 38 | 494 |
+| 360d | 2025-11-25 | 15 | 81 | 51 | 322 | 78 | 1274 |
+| last720d | 2024-11-30 | 27 | 307 | 71 | 869 | 145 | 3911 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for fish-shell lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:43:56Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:17:55Z._
